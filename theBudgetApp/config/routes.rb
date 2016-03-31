@@ -54,7 +54,7 @@ Rails.application.routes.draw do
   #     resources :products
   #   end
   TheBudgetApp::Application.routes.draw do
-    resources :home
-    root :to => redirect('/home')
+    resources :users
+    root :to => redirect('/users')
   end
 end
