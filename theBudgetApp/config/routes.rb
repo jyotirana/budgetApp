@@ -56,7 +56,5 @@ Rails.application.routes.draw do
   TheBudgetApp::Application.routes.draw do
     resources :users
     root :to => redirect('/users')
-    
-    resources :home
   end
 end
