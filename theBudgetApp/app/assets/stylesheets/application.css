@@ -18,6 +18,7 @@ html, body {
   padding: 0;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: golden;
 =======
   color: black;
@@ -25,10 +26,14 @@ html, body {
 =======
   color: black;
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+  color: golden;
+>>>>>>> origin/branch1
   font-size: 10pt;
   min-height: 100%;
 }
 div#header{
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   background-color: DarkSlateGrey;;
@@ -47,6 +52,8 @@ h1#appName {
 <<<<<<< HEAD
   color: dodgerblue;
 =======
+=======
+>>>>>>> origin/branch1
   background-color:lightblue;
    border-radius: 4px;
  
@@ -58,10 +65,13 @@ body#thebody{
 
 h1#appName {
   color: black;
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/branch1
 =======
   color: black;
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
   font-size: 500%;
   font: Georgia;
   font-style: normal;
@@ -93,6 +103,7 @@ button#more{
 table {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   height: 100px;
 =======
   height: 300px;
@@ -112,6 +123,8 @@ table {
 <<<<<<< HEAD
   color: black;
 =======
+=======
+>>>>>>> origin/branch1
   height: 300px;
   position: relative;
   left: 40px;
@@ -126,15 +139,19 @@ table {
 #siteInfo {
   font-style: normal;
   color: blue;
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/branch1
 =======
   color: blue;
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
   font-size: 40px;
 }
 
 #signUp {
   font-style: normal;
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   color: black;
@@ -147,10 +164,15 @@ table {
   color: black;
 >>>>>>> bNavigate
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+  color: blue;
+>>>>>>> 1cc62acb2b2d31bc04655afc6c56e8ecc2d64fc9
+>>>>>>> origin/branch1
   font-size: 40px;
 }
 
 table,th {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     padding: 5px;
@@ -168,6 +190,8 @@ td#addspace{
 <<<<<<< HEAD
   padding: 0px;
 =======
+=======
+>>>>>>> origin/branch1
     padding: 4px;
     font-size: 2em;
     font-style: oblique;
@@ -184,9 +208,12 @@ td#addspace{
   column-gap: 30px;
  
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/branch1
 =======
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
 }
 td#tocenter{
   text-align: center;
@@ -213,10 +240,13 @@ form label {
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 =======
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
 #headAbt {
   border-radius: 25px;
   border: 2px solid #73AD21;
@@ -241,6 +271,9 @@ form label {
   left: 145px;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/branch1
 =======
 >>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
