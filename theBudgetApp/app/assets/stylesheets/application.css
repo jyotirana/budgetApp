@@ -16,7 +16,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  color: black;
+  color: golden;
   font-size: 10pt;
   min-height: 100%;
 }
@@ -80,11 +80,8 @@ table {
 
 #signUp {
   font-style: normal;
-<<<<<<< HEAD
   color: blue;
-=======
-  color: black;
->>>>>>> bNavigate
+>>>>>>> 1cc62acb2b2d31bc04655afc6c56e8ecc2d64fc9
   font-size: 40px;
 }
 
