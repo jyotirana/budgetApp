@@ -16,11 +16,44 @@
 html, body {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  color: golden;
+=======
   color: black;
+>>>>>>> refs/remotes/origin/branch1
+=======
+  color: black;
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+  color: golden;
+>>>>>>> origin/branch1
   font-size: 10pt;
   min-height: 100%;
 }
 div#header{
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  background-color: DarkSlateGrey;;
+=======
+  background-color:lightblue;
+   border-radius: 4px;
+>>>>>>> refs/remotes/origin/branchMarch31
+ 
+}
+body#thebody{
+   background-image: url(cara-menentukan-anggaran-adwords.jpg);
+}
+
+
+h1#appName {
+<<<<<<< HEAD
+  color: dodgerblue;
+=======
+=======
+>>>>>>> origin/branch1
   background-color:lightblue;
    border-radius: 4px;
  
@@ -32,6 +65,13 @@ body#thebody{
 
 h1#appName {
   color: black;
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/branch1
+=======
+  color: black;
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
   font-size: 500%;
   font: Georgia;
   font-style: normal;
@@ -61,6 +101,30 @@ button#more{
   display: inline-block;
 }
 table {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  height: 100px;
+=======
+  height: 300px;
+>>>>>>> refs/remotes/origin/branchMarch31
+  position: relative;
+  left: 40px;
+  border-collapse: collapse;
+  column-count: 2;
+  column-gap: 20px;
+  margin: 100px;
+  
+  background-color: lemonchiffon;
+
+}
+#siteInfo {
+  font-style: normal;
+<<<<<<< HEAD
+  color: black;
+=======
+=======
+>>>>>>> origin/branch1
   height: 300px;
   position: relative;
   left: 40px;
@@ -75,20 +139,59 @@ table {
 #siteInfo {
   font-style: normal;
   color: blue;
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/branch1
+=======
+  color: blue;
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
   font-size: 40px;
 }
 
 #signUp {
   font-style: normal;
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  color: black;
+=======
+  color: blue;
+>>>>>>> refs/remotes/origin/branch1
+=======
   color: blue;
 =======
   color: black;
 >>>>>>> bNavigate
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+  color: blue;
+>>>>>>> 1cc62acb2b2d31bc04655afc6c56e8ecc2d64fc9
+>>>>>>> origin/branch1
   font-size: 40px;
 }
 
 table,th {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    padding: 5px;
+=======
+    padding: 4px;
+>>>>>>> refs/remotes/origin/branchMarch31
+    font-size: 2em;
+    font-style: oblique;
+    color: golden;
+}
+td {
+  padding: 4px;
+}
+td#addspace{
+<<<<<<< HEAD
+  padding: 0px;
+=======
+=======
+>>>>>>> origin/branch1
     padding: 4px;
     font-size: 2em;
     font-style: oblique;
@@ -98,10 +201,19 @@ td {
   padding: 4px;
 }
 td#addspace{
+=======
+>>>>>>> refs/remotes/origin/branchMarch31
   padding: 20px;
   color: maroon;
   column-gap: 30px;
  
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/branch1
+=======
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
 }
 td#tocenter{
   text-align: center;
@@ -126,6 +238,15 @@ form label {
   font-weight: bold;
   color: blue;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+=======
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
 #headAbt {
   border-radius: 25px;
   border: 2px solid #73AD21;
@@ -149,3 +270,10 @@ form label {
   text-align: center;
   left: 145px;
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/branch1
+=======
+>>>>>>> refs/remotes/origin/branchMarch31
+=======
+>>>>>>> origin/branch1
