@@ -16,37 +16,11 @@
 html, body {
   margin: 0;
   padding: 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
   color: golden;
-=======
-  color: black;
->>>>>>> refs/remotes/origin/branch1
-=======
-  color: black;
->>>>>>> refs/remotes/origin/branchMarch31
   font-size: 10pt;
   min-height: 100%;
 }
 div#header{
-<<<<<<< HEAD
-<<<<<<< HEAD
-  background-color: DarkSlateGrey;;
-=======
-  background-color:lightblue;
-   border-radius: 4px;
->>>>>>> refs/remotes/origin/branchMarch31
- 
-}
-body#thebody{
-   background-image: url(cara-menentukan-anggaran-adwords.jpg);
-}
-
-
-h1#appName {
-<<<<<<< HEAD
-  color: dodgerblue;
-=======
   background-color:lightblue;
    border-radius: 4px;
  
@@ -54,14 +28,12 @@ h1#appName {
 body#thebody{
    background-image: url(cara-menentukan-anggaran-adwords.jpg);
 }
-
-
+#signUp{
+   background-image: url(22361719-Budgeting-Business-Concept-Blue-Arrow-with-Budgeting-Slogan-on-a-Grey-Background-3D-Render--Stock-Photo.jpg);
+}
+  
 h1#appName {
   color: black;
->>>>>>> refs/remotes/origin/branch1
-=======
-  color: black;
->>>>>>> refs/remotes/origin/branchMarch31
   font-size: 500%;
   font: Georgia;
   font-style: normal;
@@ -91,27 +63,6 @@ button#more{
   display: inline-block;
 }
 table {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  height: 100px;
-=======
-  height: 300px;
->>>>>>> refs/remotes/origin/branchMarch31
-  position: relative;
-  left: 40px;
-  border-collapse: collapse;
-  column-count: 2;
-  column-gap: 20px;
-  margin: 100px;
-  
-  background-color: lemonchiffon;
-
-}
-#siteInfo {
-  font-style: normal;
-<<<<<<< HEAD
-  color: black;
-=======
   height: 300px;
   position: relative;
   left: 40px;
@@ -126,48 +77,16 @@ table {
 #siteInfo {
   font-style: normal;
   color: blue;
->>>>>>> refs/remotes/origin/branch1
-=======
-  color: blue;
->>>>>>> refs/remotes/origin/branchMarch31
   font-size: 40px;
 }
 
 #signUp {
   font-style: normal;
-<<<<<<< HEAD
-<<<<<<< HEAD
-  color: black;
-=======
   color: blue;
->>>>>>> refs/remotes/origin/branch1
-=======
-  color: blue;
-=======
-  color: black;
->>>>>>> bNavigate
->>>>>>> refs/remotes/origin/branchMarch31
   font-size: 40px;
 }
 
 table,th {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    padding: 5px;
-=======
-    padding: 4px;
->>>>>>> refs/remotes/origin/branchMarch31
-    font-size: 2em;
-    font-style: oblique;
-    color: golden;
-}
-td {
-  padding: 4px;
-}
-td#addspace{
-<<<<<<< HEAD
-  padding: 0px;
-=======
     padding: 4px;
     font-size: 2em;
     font-style: oblique;
@@ -177,16 +96,10 @@ td {
   padding: 4px;
 }
 td#addspace{
-=======
->>>>>>> refs/remotes/origin/branchMarch31
   padding: 20px;
   color: maroon;
   column-gap: 30px;
  
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/branch1
-=======
->>>>>>> refs/remotes/origin/branchMarch31
 }
 td#tocenter{
   text-align: center;
@@ -211,12 +124,6 @@ form label {
   font-weight: bold;
   color: blue;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> refs/remotes/origin/branchMarch31
 #headAbt {
   border-radius: 25px;
   border: 2px solid #73AD21;
@@ -240,7 +147,3 @@ form label {
   text-align: center;
   left: 145px;
 }
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/branch1
-=======
->>>>>>> refs/remotes/origin/branchMarch31
