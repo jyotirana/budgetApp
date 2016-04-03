@@ -28,8 +28,10 @@ div#header{
 body#thebody{
    background-image: url(cara-menentukan-anggaran-adwords.jpg);
 }
-
-
+#signUp{
+   background-image: url(22361719-Budgeting-Business-Concept-Blue-Arrow-with-Budgeting-Slogan-on-a-Grey-Background-3D-Render--Stock-Photo.jpg);
+}
+  
 h1#appName {
   color: black;
   font-size: 500%;
@@ -81,7 +83,6 @@ table {
 #signUp {
   font-style: normal;
   color: blue;
->>>>>>> 1cc62acb2b2d31bc04655afc6c56e8ecc2d64fc9
   font-size: 40px;
 }
 
